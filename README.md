@@ -57,3 +57,11 @@ You can check the live preview of website by [Click Here](https://amazing-shoes-
 - This Landing Page is Created using CSS Framework Named Bulma
 
 You can check the live preview of website by [Click here](https://tesla-roadster-clonepage.netlify.app/)
+
+## Modern Landing Page
+
+![Modern Landing Page](Assets/modern/image-01.png)
+
+- Creating an Modern Landing Hero Section using Slider Navbar
+
+You can check the live preview of website by [Click here](https://modern-page.netlify.app/);
