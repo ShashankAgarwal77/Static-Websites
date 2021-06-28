@@ -13,12 +13,10 @@ Omnifood is an imaginary Food Delivery Company based in Ireland.
 
 ![OmniFood Landing Page](https://github.com/ShashankAgarwal77/Static-Websites/blob/main/Assets/Omnifood/omni-gif.gif)
 
-![Image 01](/Assets/Omnifood/image-01.png)
-![Image 02](/Assets/Omnifood/image-02.png)
-![Image 03](/Assets/Omnifood/image-03.png)
-![Image 04](/Assets/Omnifood/image-04.png)
-![Image 05](/Assets/Omnifood/image-05.png)
-![Image 06](/Assets/Omnifood/image-06.png)
-![Image 07](/Assets/Omnifood/image-07.png)
+- To provide good quality icons as image in services section i use fontawesome.
+
+- the purpose of make the webpage design as simple & clear i use grid css to provide better structure.
+
+You can check the live preview of website by [Click Here](https://omni-foods.netlify.app/)
 
 #### Languages Used: HTML, CSS and JS
