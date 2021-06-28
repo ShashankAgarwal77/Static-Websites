@@ -33,7 +33,7 @@ You can check the live preview of website by [Click Here](https://blogpage-bulma
 
 ## CoffeeKing Brand Page - Materialized CSS Framework
 
-![BlogPage Bulma](Assets/BlogPage/CoffeeKing/image-01.png)
+![Coffee King Header Section](Assets/CoffeeKing/image-01.png)
 
 - Creating Coffeeking Landing Page using Materialized CSS
 - At that time, i understand how documentations are really helpful while developing webapps or webpages.
