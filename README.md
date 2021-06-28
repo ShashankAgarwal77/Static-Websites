@@ -11,7 +11,7 @@ Omnifood is an imaginary Food Delivery Company based in Ireland.
 - The page purpose was to showcase their services and mobile application.
   To make good impact I developed the landing section of the page with parallax effect in the background image and hovering effect in the navigation bar and in button.
 
-![OmniFood Landing Page]()
+![OmniFood Landing Page](https://github.com/ShashankAgarwal77/Static-Websites/blob/main/Assets/omni-gif.gif)
 
 -
 
