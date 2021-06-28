@@ -40,3 +40,20 @@ You can check the live preview of website by [Click Here](https://blogpage-bulma
 - the purpose of make the webpage design as simple & clear to provide more interactivity so i use Materialize CSS
 
 You can check the live preview of website by [Click Here](https://coffeeking.netlify.app/)
+
+## Amazing Shoes Inc - Using _SCSS_
+
+![Amazing Shoes Header Section](Assets/AmazingShoes/image-01.png)
+
+- Created a Modern Landing Page using HTML and CSS under the guidance of YT page Brad Traversy.
+- Created Multiple Sections with Different Modern Aesthetic.
+
+You can check the live preview of website by [Click Here](https://amazing-shoes-inc.netlify.app/)
+
+## Tesla Roadster - Clone Page
+
+![Tesla Roadster Landing Page](Assets/Tesla/image-01.png)
+
+- This Landing Page is Created using CSS Framework Named Bulma
+
+You can check the live preview of website by [Click here](https://tesla-roadster-clonepage.netlify.app/)
