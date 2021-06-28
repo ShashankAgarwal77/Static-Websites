@@ -20,3 +20,9 @@ Omnifood is an imaginary Food Delivery Company based in Ireland.
 You can check the live preview of website by [Click Here](https://omni-foods.netlify.app/)
 
 #### Languages Used: HTML, CSS and JS
+
+## Blog Page - Bulma CSS Framework
+
+- After Learning Native Languages of Web such as HTML, CSS and JS, i tried to create an Blog Page using CSS Framework named as Bulma
+
+![BlogPage Bulma](Assets/BlogPage/image-01.png)
