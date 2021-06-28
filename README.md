@@ -23,6 +23,20 @@ You can check the live preview of website by [Click Here](https://omni-foods.net
 
 ## Blog Page - Bulma CSS Framework
 
+![BlogPage Bulma](Assets/BlogPage/image-01.png)
+
 - After Learning Native Languages of Web such as HTML, CSS and JS, i tried to create an Blog Page using CSS Framework named as Bulma
 
-![BlogPage Bulma](Assets/BlogPage/image-01.png)
+- the purpose of make the webpage design as simple & clear to provide more managed content so i use Bulma Framework for CSS.
+
+You can check the live preview of website by [Click Here](https://blogpage-bulma.netlify.app/)
+
+## CoffeeKing Brand Page - Materialized CSS Framework
+
+![BlogPage Bulma](Assets/BlogPage/CoffeeKing/image-01.png)
+
+- Creating Coffeeking Landing Page using Materialized CSS
+- At that time, i understand how documentations are really helpful while developing webapps or webpages.
+- the purpose of make the webpage design as simple & clear to provide more interactivity so i use Materialize CSS
+
+You can check the live preview of website by [Click Here](https://coffeeking.netlify.app/)
